@@ -13,7 +13,7 @@ html, body {
 }
 
 body {
-    background: url('../imagens/fundo-madeira.jpg') no-repeat center;
+    background: url('../imagens/fundo-madeira.jpg') center no-repeat ;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -38,7 +38,7 @@ iframe#tela {
     position: relative;
     top: 80px;
     left: 22px;
-    width: 269px;
+    width: 266px;
     height: 471px;
 }
 
